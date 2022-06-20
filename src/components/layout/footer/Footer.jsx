@@ -1,9 +1,9 @@
 import React from 'react'
 
-const AllRoutes = () => {
+const Footer = () => {
   return (
     <div></div>
   )
 }
 
-export default AllRoutes
+export default Footer
